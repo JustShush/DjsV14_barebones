@@ -1,6 +1,7 @@
 {
-	"TOKEN": "",
-	"testServer": "",
-	"devs": [""],
-	"staff_channel": ""
+	"TOKEN": "Your token",
+	"DevGuild": "",
+	"DevID": "",
+	"clientId": "",
+	"MONGO_URI": "your mongo uri"
 }
